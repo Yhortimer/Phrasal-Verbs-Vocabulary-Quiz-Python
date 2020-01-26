@@ -2,7 +2,7 @@ Short description
 
 The app points you to an easy way to learn English phrasal verbs. Just pick the correct option. If you failed, don't worry. Just remember the correct one. We all learn from our mistakes.
 
-Currently, the contents of the app submitted for two languages only: Ukrainian and English. But you can change it as you wish. This is only a template for your imagination.
+Currently, the content of the app was submitted for two languages only: Ukrainian and English. But you can change it as you wish. This is only a template for your imagination.
 
 How to use
 
