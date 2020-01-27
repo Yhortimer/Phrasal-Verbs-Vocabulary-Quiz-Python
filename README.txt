@@ -6,7 +6,7 @@ Currently, the content of the app was submitted for two languages only: Ukrainia
 
 How to use
 
-Copy/Paste code and run it use your terminal command line. Also, you can run the app use IDLE (integrated development environment for Python). 
+Copy/Paste code and run it by using your terminal command line. Also, you can run the app by using use IDLE (integrated development environment for Python). 
 
 Preconditions
 
